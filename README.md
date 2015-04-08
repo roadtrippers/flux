@@ -1,5 +1,5 @@
 # Flux
-A simple implementation of Facebook's flux, an application architecture for building user interfaces (https://facebook.github.io/flux/).
+A simple implementation of Facebook's Flux, an application architecture for building user interfaces (https://facebook.github.io/flux/).
 
 # Install
 - Install dependencies
