@@ -1,0 +1,21 @@
+{
+  "name": "flux",
+  "version": "0.0.1",
+  "description": "A simple implementation of Facebook's Flux.",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^0.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roadtrippers/flux.git"
+  },
+  "keywords": [
+    "Flux"
+  ],
+  "bugs": {
+    "url": "https://github.com/roadtrippers/flux/issues"
+  },
+  "homepage": "https://github.com/roadtrippers/flux"
+}

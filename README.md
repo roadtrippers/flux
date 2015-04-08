@@ -76,14 +76,8 @@ coolStore = flux.getStore('cool')
 
 # Contribute
 
-## Install Dev Dependencies
-`npm install`
-
-## Build source
-`node_modules/.bin/browserify -t coffeeify src/flux.coffee > dist/flux.js`
-
-## Build tests
-`node_modules/.bin/browserify -t coffeeify test/flux_spec.coffee > test/dist/flux_spec.js`
+## Build
+`grunt coffee`
 
 ## Run tests
 In a web browser visit: `file:///$PROJECT_DIRECTORY/jasmine/SpecRunner.html`
