@@ -2,10 +2,10 @@
 A simple implementation of Facebook's Flux, an application architecture for building user interfaces (https://facebook.github.io/flux/).
 
 # Install
-- Install dependencies
-  - underscore: http://underscorejs.org/
-  - backbone: http://backbonejs.org/
-- Install flux: `dist/flux.js`
+- Install dependencies:
+  - Underscore: http://underscorejs.org/
+  - Backbone: http://backbonejs.org/
+- Install Flux: `dist/flux.js`
 
 # API Reference
 
